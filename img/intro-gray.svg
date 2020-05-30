@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="704" height="218" viewBox="0 0 704 218">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 300px;
+      }
+
+      .cls-1 {
+        opacity: 0.04;
+      }
+
+      .cls-2 {
+        font-family: "OpenSans-Extrabold";
+      }
+    </style>
+  </defs>
+  <text x="-23" y="215" class="cls-1"><tspan class="cls-2">Intro</tspan></text>
+</svg>
